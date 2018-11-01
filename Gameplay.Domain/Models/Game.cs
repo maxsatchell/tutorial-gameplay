@@ -38,10 +38,14 @@ namespace Tutorial.Gameplay.Domain.Models
                     SwitchPlayers();
                 }
             }
+
+            GameOver();
         }
 
         private void GameOver()
         {
+            Console.WriteLine("  ");
+            Console.WriteLine("  ");
             Console.WriteLine("*****************************************");
             Console.WriteLine("            G A M E  O V E R!");
             Console.WriteLine("*****************************************");
