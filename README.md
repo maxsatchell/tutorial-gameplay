@@ -9,9 +9,11 @@
 1. [Make sure that you have installed the C# extension.](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 
 ## Fork and Clone
+
 Fork the repository and then clone your fork to your local development envionment.
 
 ## Build and Run
+
 Open a terminal (or command-line) window.  Then run the following commands in the repository root directory.
 
 ```bash
